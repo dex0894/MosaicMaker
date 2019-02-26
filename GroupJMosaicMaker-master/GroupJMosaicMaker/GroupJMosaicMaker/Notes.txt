@@ -1,0 +1,9 @@
+﻿Prevent Juxtaposed and the option to use every image once before using again are cannot be enabled at the same time in the UI.
+We were not sure if you wanted that as an option so we just made it so that only one can be enabled at a time.
+
+Large Image Files - Grid Size 5
+With large image files when the grid size is set to 5 the program takes at the most 13 seconds to generate the picture mosaic.
+With the solid mosaic some of the pixels are set to distorted colors.
+
+Assignment 5 Complete.
+No other known Issues.
